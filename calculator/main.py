@@ -3,6 +3,7 @@
 import sys
 from pkg.calculator import Calculator
 from pkg.render import format_json_output
+import system_prompt
 
 
 def main() -> None:
